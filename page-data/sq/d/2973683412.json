@@ -1,0 +1,1 @@
+{"errors":[{"message":"C:\\Users\\DeLL\\AppData\\Local\\Temp/2021-01-23T12:07:42.013Z-portfolio.jpg-b03a06a9cd3314f1ae4e5f9d3f536e1f..jpg: unable to open for write\nwindows error: The storage control block address is invalid.\r\n\n","locations":[{"line":5,"column":9}],"path":["pic","background","fluid","tracedSVG"]}],"data":{"pic":{"background":{"fluid":{"tracedSVG":null}}}}}
